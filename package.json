@@ -5,8 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
-    "build": "webpack --config webpack.config.js && cd ./dist && echo forrestblade.com > CNAME && npx surge ./",
-    "test": "echo \"No test specified\" && exit 0"
+    "build": "webpack --config webpack.config.js --mode production"
   },
   "keywords": [],
   "author": "",
