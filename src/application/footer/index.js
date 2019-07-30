@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='f2 dark-green'>Let's collaborate</div>
         <center>
           <main className='f3 measure-wide pa5-ns'>
-            I work with a lot of modern web technologies, including React, Redux, Angular, Webpack, CSS3, SASS, Tensorflow.js and I am always looking for new projects to take on. I'm currently working through some machine learning courses, so check back soon for updates on that. Shoot me an <a classname='pointer underline dim dark-green' href='mailto:forrestblade.code@gmail.com'>email</a> and we can start a conversation. If you would like to view my resume it is available <a href='https://drive.google.com/file/d/1kkW9cNba-9CImu4QZZ2ILyROWRasakfc/view' classname='pointer underline dim dark-green'>here</a>.
+            I work with a lot of modern web technologies, including React, Redux, Angular, Webpack, CSS3, SASS, Tensorflow.js and I am always looking for new projects to take on. I'm currently working through some machine learning courses, so check back soon for updates on that. Shoot me an <a classname='pointer underline dim dark-green' href='mailto:forrestblade.code@gmail.com'>email</a> and we can start a conversation. If you would like to view my resume it is available <a href='https://drive.google.com/file/d/105mDaDQPeVvl5slFLUqSADfaVjJv-V2o/view' classname='pointer underline dim dark-green'>here</a>.
           </main>
         </center>
         <div className='code pa2'>
