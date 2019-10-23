@@ -34,7 +34,7 @@ a > span {
          A web designer strives for perfection; perfection is found in 
 		between what a website is and <em>isnt't.</em> In a time that hungers for
 		 tangible novelties, A website is about giving visitors content to enjoy
-		and ways to interact with you. In the masterpiece of browser, the developers's signature 
+		and ways to interact with you. In the masterpiece of the browser, the developers's signature 
 		is delivered instantaneously their user.
       </p>
     </div>
@@ -44,17 +44,17 @@ a > span {
 		yourself in an industry that moves as swiftly and and is full
 		of so much innovation. 
 		Only through constant practice and strictest self-criticism may we
-        develop a sense for a perfect piece passion in the work we do. 
+        develop a sense for a perfect passion in the work we do. 
 		Unfortunately, most seem content with a middling performance.
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
 		Careful placing of elements and the correct spacing of capital letters
-		appear to be unknown or unimportant to some typesetters, yet for him who 
+		appear to be unknown or unimportant to some developers, yet for they who 
 		investigates, the correct rules are not difficult to discover. Distinction 
 		needs to be won by simplicity and restraint. It is equally true that these 
-		qualities need to be infused wiht a certain spirit and vitality, or they 
+		qualities need to be infused with a certain spirit and vitality, or they 
 		degenerate into dullness and mediocrity.
       </p>
     </div>
