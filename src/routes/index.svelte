@@ -13,7 +13,7 @@ a > span {
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f3 b mt0">
-    	A web application isn't just it's HTML tags, CSS block or JavaScript technobabble;
+    	A web application isn't just it's HTML tags, CSS blocks or JavaScript technobabble;
     	rather the content and context in which it is consumed.
     </h2>
   </header>
