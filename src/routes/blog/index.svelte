@@ -13,13 +13,13 @@
 </script>
 
 <svelte:head>
-  <title>Blog</title>
+  <title>blog</title>
 </svelte:head>
 <section class="cf pa3 mw9 center">
   <header class="code w-100 pa3-m pa4-l mb3">
     <h2 class="lh-title f3 b mt0">λ recent posts</h2>
   </header>
-  {#if posts.length > 0}
+  {#if posts.length >= 0}
     <!-- content here -->
     {#each posts as post}
       <section class="mw7 cf center">
@@ -29,10 +29,7 @@
               <div class="w-100 pr3-ns order-2 ">
                 <h1 class="f3 code underline mt0 lh-title">{post.title}</h1>
                 <p class="f5 f4-l link code">
-                  Lorem ipsum dolor amet shabby chic franzen irony occupy twee
-                  meditation semiotics. Dreamcatcher asymmetrical prism
-                  meditation. Green juice bitters vice prism beard meggings
-                  fixie.
+                  {post.description}
                 </p>
               </div>
             </a>

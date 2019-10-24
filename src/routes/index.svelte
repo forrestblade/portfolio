@@ -10,7 +10,7 @@ a > span {
 	<title>Forrest Blade</title>
 </svelte:head>
 
-<article class="cf pa3 mw9 center">
+<article class="cf code pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f3 b mt0">
     	A web application isn't just it's HTML tags, CSS blocks or JavaScript technobabble;
@@ -35,7 +35,7 @@ a > span {
 		between what a website is and <em>isnt't.</em> In a time that hungers for
 		 tangible novelties, A website is about giving visitors content to enjoy
 		and ways to interact with you. In the masterpiece of the browser, the developers's signature 
-		is delivered instantaneously their user.
+		is delivered instantaneously to their user.
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -50,7 +50,7 @@ a > span {
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-		Careful placing of elements and the correct spacing of capital letters
+		Careful placing of elements and the correct usage of semantic HTML
 		appear to be unknown or unimportant to some developers, yet for they who 
 		investigates, the correct rules are not difficult to discover. Distinction 
 		needs to be won by simplicity and restraint. It is equally true that these 
@@ -60,46 +60,50 @@ a > span {
     </div>
   </section>
 
-  <section id="portfolio" class="fl w-100">
+  <section id="portfolio" class="fl code w-100">
+  <h1 class="f4 tc f3-m f2-l fw2 black-90 mv3">
+    portfolio
+  </h1>
+
     <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-	  <a href="https://csv-json-parse.netlify.com/">
-        <span style="background-image:url({'images/IMG_0476.png'});" class="cover bg-center aspect-ratio--object"></span>
+	  <a title="csv-json" href="https://csv-json-parse.netlify.com/">
+        <span style="background-image:url({'images/IMG_0476.png'});" class="cover pointer bg-center aspect-ratio--object"></span>
 	  </a>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-	  <a href="https://lememe.netlify.com">
-        <span style="background-image:url({'images/IMG_0481.png'});" class="cover bg-center aspect-ratio--object"></span>
+	  <a title="gif search" href="/gifs">
+        <span style="background-image:url({'images/IMG_0481.png'});" class="cover pointer bg-center aspect-ratio--object"></span>
 	  </a>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-	  <a href="https://vendy.stackblitz.io/">
-        <span style="background-image:url({'images/IMG_0477.png'});" class="cover bg-center aspect-ratio--object"></span>
+	  <a title="vendy" href="https://vendy.stackblitz.io/">
+        <span style="background-image:url({'images/IMG_0477.png'});" class="cover pointer bg-center aspect-ratio--object"></span>
 	  </a>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
-      <div class="aspect-ratio aspect-ratio--3x4">
+      <div  class="aspect-ratio aspect-ratio--3x4">
 	  <a href="http://pomodoro-soup.surge.sh/">
-        <span style="background-image:url({'images/IMG_0478.png'});" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url({'images/IMG_0478.png'});" class="cover pointer bg-center aspect-ratio--object"></span>
+	  </a>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
+      <div title="global dealer locator - john deere" class="aspect-ratio aspect-ratio--3x4">
+	  <a title="pomodoro counter" href="https://dealerlocator.deere.com/">
+        <span style="background-image:url({'images/IMG_0479.png'});" class="cover pointer bg-center aspect-ratio--object"></span>
 	  </a>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-	  <a href="https://dealerlocator.deere.com/">
-        <span style="background-image:url({'images/IMG_0479.png'});" class="cover bg-center aspect-ratio--object"></span>
-	  </a>
-      </div>
-    </div>
-    <div class="fl w-100 w-50-m w-33-l pv3 pa3-m pa4-l">
-      <div class="aspect-ratio aspect-ratio--3x4">
-	  <a href="http://borkborkbork.surge.sh/">
-        <span style="background-image:url({'images/IMG_0480.png'});" class="cover bg-center aspect-ratio--object"></span>
+	  <a title="borkborkbork" href="http://borkborkbork.surge.sh/">
+        <span style="background-image:url({'images/IMG_0480.png'});" class="cover pointer bg-center aspect-ratio--object"></span>
 	  </a>
       </div>
     </div>

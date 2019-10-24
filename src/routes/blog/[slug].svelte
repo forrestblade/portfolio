@@ -58,11 +58,11 @@
 </svelte:head>
 
 <article class="cf ph3 ph5-ns pv5">
-  <header class="fn fl-ns w-50-ns pr4-ns">
-    <h1 class="mb3 mt0 lh-title">{post.title}</h1>
+  <header class="fn bt b b-black bw2 fl-ns w-50-ns pr4-ns">
+    <h1 class="mb3 mt2 lh-title">{post.title}</h1>
     <time class="f6 ttu tracked gray">Forrest Blade</time>
   </header>
-  <div class="content fn fl-ns w-50-ns">
+  <div class="content pl4 fn fl-ns w-50-ns">
     {@html post.html}
   </div>
 </article>

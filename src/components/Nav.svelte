@@ -3,13 +3,13 @@
 </script>
 
 <nav class="dt w-100 border-box pa3 ph5-ns code">
-  <a class="dtc v-mid dark-green hover-purple link dim w-25 {segment === undefined ? "selected" : ""}"  href='.' title="Home">
+  <a class="dtc v-mid dark-green hover-purple link dim w-25 {segment === undefined ? "selected" : ""}"  href='.' title="home">
     Forrest Blade
 	<br/>
-	<small>brutalist web application developer</small>
+	<small class="dark-gray">brutalist web application developer</small>
   </a>
   <div class="dtc v-mid w-75 tr">
-    <a class="link dim hover-light-green dark-gray f6 f5-ns dib mr3 mr4-ns {segment === "blog" ? "selected" : ""}" rel=prefetch href='blog' title="Blog">λ blog</a>
+    <a class="link dim hover-light-green dark-gray f6 f5-ns dib mr3 mr4-ns {segment === "blog" ? "selected" : ""}" rel=prefetch href='blog' title="blog">λ blog</a>
   </div>
 </nav>
   <section class="pa3 tr w-100 ph5-ns">
