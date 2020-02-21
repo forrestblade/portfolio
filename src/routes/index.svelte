@@ -1,11 +1,3 @@
-<style>
-a > span {
-  filter: gray; /* IE6-9 */
-  -webkit-filter: grayscale(.8); /* Google Chrome, Safari 6+ & Opera 15+ */
-  filter: grayscale(.8); /* Microsoft Edge and Firefox 35+ */
-}
-</style>
-
 <svelte:head>
 	<title>Forrest Blade</title>
 </svelte:head>
