@@ -25,7 +25,7 @@
       <dd class="f3 fw6 ml0">
         <a
           class="link hover-green"
-          href="https://drive.google.com/file/d/1QX1-TV8vL74Ry15bDhFxKzSVZvbKuYso/view">
+          href="https://docs.google.com/document/d/1Rr7gn03E5Rnp3wUfPElH0LHtBvTNsXTzKs9HKg-2l6g/edit#heading=h.rfgvkg2ifhfd">
           here
         </a>
       </dd>
