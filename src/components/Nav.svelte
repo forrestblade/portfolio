@@ -27,12 +27,7 @@
     href="./#portfolio">
     portfolio
   </a>
-  <a
-    class="f3 link b hover-light-green no-underline black dib ph2 pv1"
-    href="/about">
+  <a class="f3 link b hover-orange no-underline black dib ph2 pv1" href="/about">
     about
-  </a>
-  <a class="f3 link b hover-orange no-underline black dib ph2 pv1" href="/gifs">
-    gifs
   </a>
 </section>

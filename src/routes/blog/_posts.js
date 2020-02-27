@@ -9,6 +9,46 @@
 
 const posts = [
 	{
+		title: "Thoughts on honest web designs",
+		date: "02/27/2020 8:28am",
+		slug: "honest-web-designs",
+		description: "A web application isn't just it's blocks of HTML, CSS rules, or JavaScript technobabble; rather the content and context in which it is consumed.",
+		html: `
+		<p class="lh-copy measure mt4 mt0-ns">
+
+        Honest web designs depends on perfect harmony between all of the elements 
+		on a page. Harmony is determined by relationships or proportions. 
+		Proportions are hidden everywhere. words themselves. True web design, 
+		therefore, is a matter of tact (consideration, rhythm,
+        subtlety) and brutalism. It flows from something rarely appreciated today:
+		good taste.
+		</p>
+		<p class="lh-copy measure mt4 mt0-ns">
+		A web designer strives for perfection; perfection is found in 
+		between what a website is and <em>isn't.</em> In a time that hungers for
+		 tangible novelties, A website is about giving visitors content to enjoy
+		and ways to interact with you. In the masterpiece of the browser, the developers's signature 
+		is delivered instantaneously to their user.
+		</p>
+		<p class="lh-copy measure mt4 mt0-ns">
+		It can be hard to find
+		yourself in an industry that moves as swiftly and and is full
+		of so much innovation. 
+		Only through constant practice and strictest self-criticism may we
+        develop a sense for a perfect passion in the work we do. 
+		Unfortunately, most seem content with a middling performance.
+		</p>
+		<p class="lh-copy measure mt4 mt0-ns">
+		Careful placing of elements and the correct usage of semantic HTML
+		appear to be unknown or unimportant to some developers, yet for they who 
+		investigates, the correct rules are not difficult to discover. Distinction 
+		needs to be won by simplicity and restraint. It is equally true that these 
+		qualities need to be infused with a certain spirit and vitality, or they 
+		degenerate into dullness and mediocrity.
+		</p>
+		`
+	},
+	{
 		title: "Hello World",
 		date: "10/23/2019 11:25pm",
 		slug: "hello-world",
