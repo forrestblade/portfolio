@@ -55,22 +55,22 @@
   <section id="portfolio" class="fl code w-100">
     <section class="cf mt5 pv3 bt b--black-05 ph3-l">
     <h1 class="tl f5 ttu fw6 tracked mb4 avenir">Recent Projects</h1>
-    <a href="https://csv-json-parse.netlify.com/" class="fl w-third w-25-ns border-box overflow-hidden ba bw2 white" title="">
+    <a href="https://csv-json-parse.netlify.com/" class="fl w-third w-25-ns border-box overflow-hidden ba b--blue bw2 white" title="">
       <div class="grow cover bg-center pv5 pv6-l" style="background-image:url({'images/IMG_0476.png'});"></div>
     </a>
-    <a href="https://dealerlocator.deere.com/" class="fl w-third w-25-ns border-box overflow-hidden  ba bw2 white" title="">
+    <a href="https://dealerlocator.deere.com/" class="fl w-third w-25-ns border-box overflow-hidden b--yellow ba bw2 white" title="">
       <div class="grow cover bg-top pv5 pv6-l" style="background-image:url({'images/IMG_0479.png'});"></div>
     </a>
-    <a href="/gifs" class="fl w-third w-25-ns border-box overflow-hidden ba bw2 white" title="">
+    <a href="/gifs" class="fl w-third w-25-ns border-box overflow-hidden ba b--green bw2 white" title="">
       <div class="grow cover bg-top pv5 pv6-l" style="background-image:url({'images/IMG_0481.png'});"></div>
     </a>
-    <a href="https://vendy.stackblitz.io/" class="fl w-100 w-25-ns border-box overflow-hidden ba bw2 white" title="">
+    <a href="https://vendy.stackblitz.io/" class="fl w-100 w-25-ns border-box overflow-hidden ba b--orange bw2 white" title="">
       <div class="grow cover bg-top pv5 pv6-l" style="background-image:url({'images/IMG_0477.png'});"></div>
     </a>
-    <a href="http://pomodoro-soup.surge.sh/" class="fl w-50 border-box overflow-hidden ba bw2 white" title="">
+    <a href="http://pomodoro-soup.surge.sh/" class="fl w-50 border-box overflow-hidden ba b--purple bw2 white" title="">
       <div class="grow cover bg-center pv5 pv7-l" style="background-image:url({'images/IMG_0478.png'});"></div>
     </a>
-    <a href="http://borkborkbork.surge.sh/" class="fl w-50 border-box overflow-hidden ba bw2 white" title="">
+    <a href="http://borkborkbork.surge.sh/" class="fl w-50 border-box overflow-hidden b--red ba bw2 white" title="">
       <div class="grow cover bg-center pv5 pv7-l" style="background-image:url({'images/IMG_0480.png'});"></div>
     </a>
   </section>
