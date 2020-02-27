@@ -5,7 +5,7 @@
 <article class="cf code pa3 mw9 center">
   <header class="fl w-100 w-50-l pa1 mb3 mb3-l">
     <h2 class="lh-title f3 b mt0">
-    	A web application isn't just it's HTML tags, CSS blocks or JavaScript technobabble;
+    	A web application isn't just it's blocks of HTML, CSS rules, or JavaScript technobabble;
     	rather the content and context in which it is consumed.
     </h2>
   </header>
