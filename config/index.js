@@ -22,7 +22,7 @@ module.exports = {
     siteIcon192: '/icons/',
     siteIcon72: '/icons/',
     siteIcon96: '/icons/',
-    siteFavicon: '/icons/',
+    siteFavicon: '/icons/favicon.png',
 
     GRID_LIMIT: 3,
 
