@@ -40,7 +40,7 @@ const ContactContentHolder = ({ data: { attributes, html } }) => {
         <ContentWrapper>
             <h2 className="wow fadeInUp">{title}</h2>
             <div className="wow fadeInUp">{parse(html)}</div>
-            <a class="button__main wow fadeInUp" href="mailto:forrestblade.code@gmail.com">lets collab</a>
+            <a className="button__main wow fadeInUp" href="mailto:forrestblade.code@gmail.com">lets collab</a>
         </ContentWrapper>
     );
 };

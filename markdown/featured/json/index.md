@@ -8,4 +8,4 @@ tech: [JavaScript, CSS, React, Machine Learning]
 show: "true"
 ---
 
-I created this web based tool to help data researchers quickly convert datasets like CSV and JSON back and forth.  I did this because JSON is a more manipulatable dataset when it comes to implmenting client side machine learning soltuions.
+I created this web based tool to help data researchers quickly convert datasets like CSV and JSON back and forth.  I did this because JSON is a more manipulatable dataset when it comes to implmenting client side machine learning solutions.
