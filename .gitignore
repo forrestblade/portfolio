@@ -1,6 +1,17 @@
+# ignore all haters
+haters/
+
+# Build Output
+dist
+.next
+.vscode
 .DS_Store
-/node_modules/
-/src/node_modules/@sapper/
-yarn-error.log
-/cypress/screenshots/
-/__sapper__/
+
+# Dependencies
+node_modules/
+
+# Logs
+yarn-error.log*
+
+# Production
+out
