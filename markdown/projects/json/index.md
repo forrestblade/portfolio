@@ -1,7 +1,6 @@
 ---
 date: "2019-01-01"
 title: "CSV/JSON Parser"
-cover: "/images/IMG_0476.png"
 github: "https://github.com/forrestblade/csv-parse"
 external: "https://csv-json-parse.netlify.com/"
 tech: [JavaScript, CSS, React, Machine Learning]
